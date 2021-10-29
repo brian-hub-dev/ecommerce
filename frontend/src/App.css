@@ -1,0 +1,39 @@
+.navbar {
+  background-color: rgb(8, 8, 54) !important;
+}
+
+.nav-link,
+.navbar-toggler-icon,
+.navbar-brand {
+  color: #fff !important;
+}
+h1 {
+  font-size: 18px !important;
+  text-align: left !important;
+  color: black;
+}
+.img-fluid {
+  height: 200px !important;
+}
+.big-img {
+  height: 300px !important;
+}
+p {
+  text-align: left !important;
+}
+h2 {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  color: black;
+}
+.btn {
+  width: 200px !important;
+}
+input {
+  box-shadow: none !important;
+  margin-top: 10px !important;
+  border: 1px solid black !important ;
+}
+.product:link {
+  text-decoration: none !important;
+}
