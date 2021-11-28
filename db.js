@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
-var mongoDB_URL =
-  "mongodb+srv://brian:brian123@ecommerce.nlopg.mongodb.net/Ecommerce?retryWrites=true&w=majority";
+var mongoDB_URL ="";
 
 mongoose.connect(mongoDB_URL, { useNewUrlParser: true });
 
